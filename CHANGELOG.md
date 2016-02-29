@@ -1,3 +1,7 @@
+## V1.0.4 (20160229)
+
+* Add less in bower main
+
 ## V1.0.3 (20160229)
 
 * Css to Less
