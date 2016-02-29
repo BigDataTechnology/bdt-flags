@@ -1,0 +1,10 @@
+{
+  "name": "yoFlags",
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
+}
