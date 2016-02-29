@@ -1,6 +1,7 @@
 {
   "name": "yoFlags",
   "license": "MIT",
+  "main": "./flags.js",
   "ignore": [
     "bower_components"
   ],
