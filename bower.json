@@ -1,7 +1,9 @@
 {
   "name": "yoFlags",
   "license": "MIT",
+  "version": "1.0.1",
   "main": "./flags.js",
+  "description": "AngularJs directive for get flag from country code",
   "ignore": [
     "bower_components"
   ],
