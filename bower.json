@@ -4,7 +4,7 @@
   "version": "1.0.4",
   "main": [
     "./flags.js",
-    "./flags.less"
+    "./flags.css"
   ],
   "description": "AngularJs directive for get flag from country code",
   "ignore": [
