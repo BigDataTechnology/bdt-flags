@@ -1,3 +1,7 @@
+## V1.0.6 (20160301)
+
+* Add imgs to bower main
+
 ## V1.0.5 (20160301)
 
 * Less to css
