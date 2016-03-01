@@ -1,3 +1,7 @@
+## 1.0.5 (20160301)
+
+* Css error fix for flag 32px (path incorrect)
+
 ## 1.0.4 (20160301)
 
 * Bower main
