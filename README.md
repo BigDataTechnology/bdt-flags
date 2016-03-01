@@ -9,7 +9,7 @@ AngularJs directive for get flag from country code
 Bower:
 
 ```sh
-$ bower install yoFlags=git@git.bdt.systems:dev/flags.git --save
+$ bower install yoFlags=http://git.bdt.systems:8888/dev/flags.git --save
 ```
 
 ```javascript
