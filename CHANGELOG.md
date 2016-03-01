@@ -1,3 +1,7 @@
+## 1.0.1 (20160301)
+
+* Add readme file and fix bower.json version field
+
 ## 1.0.0 (20160301)
 
 * Copy of V1.0.6
