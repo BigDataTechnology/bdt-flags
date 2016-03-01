@@ -1,3 +1,7 @@
+## 1.0.0 (20160301)
+
+* Copy of V1.0.6
+
 ## V1.0.7 (20160301)
 
 * Change imgs to bower main
