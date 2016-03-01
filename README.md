@@ -2,13 +2,10 @@
 
 AngularJs directive for get flag from country code
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-### Dependencies
+## Dependencies
   - Angular ~1.5.0
 
-### Installation
+## Installation
 Bower:
 
 ```sh
@@ -21,7 +18,7 @@ angular.module('appName', [
 ])
 ```
 
-### Use
+## Use
 
 ```html
 <flag country="us" size="16"></flag>
