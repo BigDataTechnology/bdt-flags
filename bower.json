@@ -5,8 +5,7 @@
   "main": [
     "./flags.js",
     "./flags.css",
-    "./img/flags16.png",
-    "./img/flags32.png"
+    "./img/*"
   ],
   "description": "AngularJs directive for get flag from country code",
   "ignore": [
