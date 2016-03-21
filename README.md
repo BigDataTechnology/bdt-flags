@@ -1,5 +1,4 @@
-
-# yoFlags
+# bdt-flags
 
 Simple Angular directive that return flag icon from country code
 
@@ -10,12 +9,12 @@ Simple Angular directive that return flag icon from country code
 Bower:
 
 ```sh
-$ bower install yoFlags=http://git.bdt.systems:8888/dev/flags.git --save
+$ bower install bdt-flags --save
 ```
 
 ```javascript
 angular.module('appName', [
-  'yoFlags'
+  'bdt-flags'
 ])
 ```
 

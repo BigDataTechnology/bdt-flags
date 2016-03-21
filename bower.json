@@ -1,0 +1,34 @@
+{
+  "name": "bdt-flags",
+  "description": "Simple Angular directive that return flag icon from country code",
+  "license": "MIT",
+  "main": [
+    "./flags.js",
+    "./flags.css",
+    "./img/flags16.png",
+    "./img/flags32.png"
+  ],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "flag",
+    "country",
+    "country flag",
+    "angular country flag directive",
+    "country code"
+  ],
+  "authors": [
+    "BDT Team <team@bdt.eu.com>",
+    "Andrea Bresciani <andrea.bresciani@bdt.eu.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BigDataTechnology/bdt-flags.git"
+  },
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0"
+  }
+}
